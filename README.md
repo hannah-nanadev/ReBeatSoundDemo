@@ -1,4 +1,3 @@
 # ReBeatSoundDemo
-Unfortunately had to dump everything onto github last second
-
-Uniblocks folder omitted due to large size - you will have to download it yourself from Fab here https://www.fab.com/listings/e36c2bc1-49d4-4918-a0d7-f09a90ec7a57
+Built game can be found in the BuiltProject folder if you download the source code. I had to ignore some files but I hope it still works without those otherwise just open the project in Unreal and package it there
+Uniblocks is missing entirety of Meshes folder due to large sizes making it impossible for me to push to GitHub. Acquire these files through Fab otherwise trying to package the project yourself will not work: https://www.fab.com/listings/e36c2bc1-49d4-4918-a0d7-f09a90ec7a57

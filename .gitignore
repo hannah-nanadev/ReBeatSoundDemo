@@ -72,4 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/Content/Uniblocks
+BuiltProject/CitySoundDemo/Binaries/Win64/CitySoundDemo-Win64-DebugGame.pdb
+BuiltProject/CitySoundDemo/Binaries/Win64/CitySoundDemo.pdb
+BuiltProject/CitySoundDemo/Content/Paks/CitySoundDemo-Windows.ucas
+Content/Uniblocks/Meshes/Garden/SM_UB_Bush_x300.uasset
+/Content/Uniblocks/Meshes
